@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Portfolio from "./components/Portfolio";
 import ProjectPage from "./components/ProjectPage";
 import ScrollToTop from "./components/ScrollToTop";
