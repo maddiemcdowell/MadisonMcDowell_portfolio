@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Portfolio() {
+  console.log("Portfolio component loaded");
   return (
     <div className="App">
       <header className="header">

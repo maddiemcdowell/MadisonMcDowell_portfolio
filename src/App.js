@@ -6,10 +6,12 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./styles/App.css";
 
 function App() {
+  console.log("App component loaded");
   return (
     <Router>
       <ScrollToTop />
       <Routes>
+        <Route index element={<Portfolio />} />
         <Route path="/" element={<Portfolio />} />
         <Route
           path="/project/hackathon"
