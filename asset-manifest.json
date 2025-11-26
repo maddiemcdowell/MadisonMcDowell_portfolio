@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MadisonMcDowell_portfolio/static/css/main.11b14699.css",
+    "main.js": "/MadisonMcDowell_portfolio/static/js/main.2071bc50.js",
+    "index.html": "/MadisonMcDowell_portfolio/index.html",
+    "main.11b14699.css.map": "/MadisonMcDowell_portfolio/static/css/main.11b14699.css.map",
+    "main.2071bc50.js.map": "/MadisonMcDowell_portfolio/static/js/main.2071bc50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b14699.css",
+    "static/js/main.2071bc50.js"
+  ]
+}
